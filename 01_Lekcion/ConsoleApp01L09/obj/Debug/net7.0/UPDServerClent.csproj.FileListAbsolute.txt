@@ -1,0 +1,14 @@
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\bin\Debug\net7.0\UPDServerClent.exe
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\bin\Debug\net7.0\UPDServerClent.deps.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\bin\Debug\net7.0\UPDServerClent.runtimeconfig.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\bin\Debug\net7.0\UPDServerClent.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\bin\Debug\net7.0\UPDServerClent.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\obj\Debug\net7.0\UPDServerClent.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\obj\Debug\net7.0\UPDServerClent.AssemblyInfoInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\obj\Debug\net7.0\UPDServerClent.AssemblyInfo.cs
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\obj\Debug\net7.0\UPDServerClent.csproj.CoreCompileInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\obj\Debug\net7.0\UPDServerClent.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\obj\Debug\net7.0\refint\UPDServerClent.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\obj\Debug\net7.0\UPDServerClent.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\obj\Debug\net7.0\UPDServerClent.genruntimeconfig.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L09\obj\Debug\net7.0\ref\UPDServerClent.dll

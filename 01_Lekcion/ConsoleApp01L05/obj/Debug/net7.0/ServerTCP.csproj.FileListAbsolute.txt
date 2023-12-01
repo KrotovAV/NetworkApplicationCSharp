@@ -1,0 +1,14 @@
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\bin\Debug\net7.0\ServerTCP.exe
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\bin\Debug\net7.0\ServerTCP.deps.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\bin\Debug\net7.0\ServerTCP.runtimeconfig.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\bin\Debug\net7.0\ServerTCP.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\bin\Debug\net7.0\ServerTCP.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\obj\Debug\net7.0\ServerTCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\obj\Debug\net7.0\ServerTCP.AssemblyInfoInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\obj\Debug\net7.0\ServerTCP.AssemblyInfo.cs
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\obj\Debug\net7.0\ServerTCP.csproj.CoreCompileInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\obj\Debug\net7.0\ServerTCP.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\obj\Debug\net7.0\refint\ServerTCP.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\obj\Debug\net7.0\ServerTCP.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\obj\Debug\net7.0\ServerTCP.genruntimeconfig.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L05\obj\Debug\net7.0\ref\ServerTCP.dll

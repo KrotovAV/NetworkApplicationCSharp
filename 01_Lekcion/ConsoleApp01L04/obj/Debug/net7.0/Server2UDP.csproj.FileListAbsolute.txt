@@ -1,0 +1,14 @@
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\bin\Debug\net7.0\Server2UDP.exe
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\bin\Debug\net7.0\Server2UDP.deps.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\bin\Debug\net7.0\Server2UDP.runtimeconfig.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\bin\Debug\net7.0\Server2UDP.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\bin\Debug\net7.0\Server2UDP.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\obj\Debug\net7.0\Server2UDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\obj\Debug\net7.0\Server2UDP.AssemblyInfoInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\obj\Debug\net7.0\Server2UDP.AssemblyInfo.cs
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\obj\Debug\net7.0\Server2UDP.csproj.CoreCompileInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\obj\Debug\net7.0\Server2UDP.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\obj\Debug\net7.0\refint\Server2UDP.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\obj\Debug\net7.0\Server2UDP.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\obj\Debug\net7.0\Server2UDP.genruntimeconfig.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\01_Lekcion\ConsoleApp01L04\obj\Debug\net7.0\ref\Server2UDP.dll
