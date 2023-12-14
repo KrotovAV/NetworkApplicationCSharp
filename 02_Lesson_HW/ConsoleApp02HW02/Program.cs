@@ -4,6 +4,7 @@ using System.Text;
 using static System.Net.Mime.MediaTypeNames;
 using ConsoleApp02HW;
 
+
 namespace ConsoleApp02HW02
 {
     internal class Program

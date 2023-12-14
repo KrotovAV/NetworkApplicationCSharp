@@ -1,0 +1,14 @@
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\bin\Debug\net7.0\MyUDPServer.exe
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\bin\Debug\net7.0\MyUDPServer.deps.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\bin\Debug\net7.0\MyUDPServer.runtimeconfig.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\bin\Debug\net7.0\MyUDPServer.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\bin\Debug\net7.0\MyUDPServer.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\obj\Debug\net7.0\MyUDPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\obj\Debug\net7.0\MyUDPServer.AssemblyInfoInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\obj\Debug\net7.0\MyUDPServer.AssemblyInfo.cs
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\obj\Debug\net7.0\MyUDPServer.csproj.CoreCompileInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\obj\Debug\net7.0\MyUDPServer.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\obj\Debug\net7.0\refint\MyUDPServer.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\obj\Debug\net7.0\MyUDPServer.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\obj\Debug\net7.0\MyUDPServer.genruntimeconfig.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson_HW\ConsoleApp03HW\obj\Debug\net7.0\ref\MyUDPServer.dll

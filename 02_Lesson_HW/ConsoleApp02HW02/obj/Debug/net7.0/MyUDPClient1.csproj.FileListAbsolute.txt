@@ -1,6 +1,3 @@
-D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\bin\Debug\net7.0\MyUDPServer.deps.json
-D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\bin\Debug\net7.0\MyUDPServer.runtimeconfig.json
-D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\bin\Debug\net7.0\MyUDPServer.exe
 D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\bin\Debug\net7.0\MyUDPClient1.exe
 D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\bin\Debug\net7.0\MyUDPClient1.deps.json
 D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\bin\Debug\net7.0\MyUDPClient1.runtimeconfig.json
@@ -19,3 +16,6 @@ D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\obj\
 D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\obj\Debug\net7.0\MyUDPClient1.pdb
 D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\obj\Debug\net7.0\MyUDPClient1.genruntimeconfig.cache
 D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\obj\Debug\net7.0\ref\MyUDPClient1.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\bin\Debug\net7.0\MyUDPServer.deps.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\bin\Debug\net7.0\MyUDPServer.runtimeconfig.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\02_Lesson_HW\ConsoleApp02HW02\bin\Debug\net7.0\MyUDPServer.exe

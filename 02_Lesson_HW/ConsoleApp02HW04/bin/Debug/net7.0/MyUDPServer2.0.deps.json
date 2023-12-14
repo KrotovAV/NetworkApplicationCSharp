@@ -8,15 +8,18 @@
     ".NETCoreApp,Version=v7.0": {
       "MyUDPServer2.0/1.0.0": {
         "dependencies": {
-          "MyUDPServer": "1.0.0"
+          "MyUDPServer": "1.0.0.0"
         },
         "runtime": {
           "MyUDPServer2.0.dll": {}
         }
       },
-      "MyUDPServer/1.0.0": {
+      "MyUDPServer/1.0.0.0": {
         "runtime": {
-          "MyUDPServer.dll": {}
+          "MyUDPServer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -27,8 +30,8 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MyUDPServer/1.0.0": {
-      "type": "project",
+    "MyUDPServer/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

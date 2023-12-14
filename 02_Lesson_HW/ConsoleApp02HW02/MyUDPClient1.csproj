@@ -11,4 +11,10 @@
     <ProjectReference Include="..\ConsoleApp01HW\MyUDPServer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="MyUDPServer">
+      <HintPath>..\..\03_Lesson_HW\ConsoleApp03HW\obj\Debug\net7.0\MyUDPServer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

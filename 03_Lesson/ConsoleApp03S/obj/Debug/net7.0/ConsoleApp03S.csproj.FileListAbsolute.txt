@@ -1,0 +1,14 @@
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\bin\Debug\net7.0\ConsoleApp03S.exe
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\bin\Debug\net7.0\ConsoleApp03S.deps.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\bin\Debug\net7.0\ConsoleApp03S.runtimeconfig.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\bin\Debug\net7.0\ConsoleApp03S.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\bin\Debug\net7.0\ConsoleApp03S.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\obj\Debug\net7.0\ConsoleApp03S.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\obj\Debug\net7.0\ConsoleApp03S.AssemblyInfoInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\obj\Debug\net7.0\ConsoleApp03S.AssemblyInfo.cs
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\obj\Debug\net7.0\ConsoleApp03S.csproj.CoreCompileInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\obj\Debug\net7.0\ConsoleApp03S.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\obj\Debug\net7.0\refint\ConsoleApp03S.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\obj\Debug\net7.0\ConsoleApp03S.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\obj\Debug\net7.0\ConsoleApp03S.genruntimeconfig.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\03_Lesson\ConsoleApp03S\obj\Debug\net7.0\ref\ConsoleApp03S.dll
