@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MyUDPClient/1.0.0": {
+        "dependencies": {
+          "MyUDPServer": "1.0.0"
+        },
+        "runtime": {
+          "MyUDPClient.dll": {}
+        }
+      },
+      "MyUDPServer/1.0.0": {
+        "runtime": {
+          "MyUDPServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyUDPClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyUDPServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
