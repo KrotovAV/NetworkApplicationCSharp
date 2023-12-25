@@ -11,6 +11,8 @@ namespace ConsoleApp05S
     {
         public DbSet<User> Users { get; set; }
         public DbSet<Message> Messages { get; set; }
+
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server=localhost;Database=csharp_05_lesson;Uid=root;Pwd=MySQLavk").UseLazyLoadingProxies();
@@ -43,6 +45,10 @@ namespace ConsoleApp05S
             });
         }
         public ChatContext()
+        {
+
+        }
+        public ChatContext(DbContextOptions dbc) : base(dbc)
         {
 
         }
