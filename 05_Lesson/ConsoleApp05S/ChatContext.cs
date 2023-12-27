@@ -12,11 +12,19 @@ namespace ConsoleApp05S
         public DbSet<User> Users { get; set; }
         public DbSet<Message> Messages { get; set; }
 
-
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=localhost;Database=csharp_05_lesson;Uid=root;Pwd=MySQLavk").UseLazyLoadingProxies();
+            optionsBuilder.UseMySql(
+                "server=localhost;user=root;password=MySQLavk;database=csharp_05_lesson;",
+                new MySqlServerVersion(new Version(8, 0, 11)));
+
         }
+
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    
+        //    optionsBuilder.UseSqlServer("Server=localhost;Database=csharp_05_lesson;Uid=root;Pwd=MySQLavk").UseLazyLoadingProxies();
+        //}
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<User>(entity =>
@@ -37,7 +45,7 @@ namespace ConsoleApp05S
 
                 entity.Property(e => e.Text).HasColumnName("messageText");
                 entity.Property(e => e.DateSend).HasColumnName("messageData");
-                entity.Property(e => e.IsSend).HasColumnName("is_sent");
+                entity.Property(e => e.IsSent).HasColumnName("is_sent");
                 entity.Property(e => e.MessageId).HasColumnName("id");
 
                 entity.HasOne(x => x.UserTo).WithMany(m => m.MessagesTo).HasForeignKey(x => x.UserToId).HasConstraintName("messageToUserFk");
