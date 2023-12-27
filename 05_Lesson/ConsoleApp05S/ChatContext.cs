@@ -20,13 +20,11 @@ namespace ConsoleApp05S
 
         }
 
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    
-        //    optionsBuilder.UseSqlServer("Server=localhost;Database=csharp_05_lesson;Uid=root;Pwd=MySQLavk").UseLazyLoadingProxies();
-        //}
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //base.OnModelCreating(modelBuilder); //????????????????
+
+
             modelBuilder.Entity<User>(entity =>
             {
                 entity.ToTable("users");
