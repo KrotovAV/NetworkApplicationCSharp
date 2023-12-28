@@ -1,0 +1,14 @@
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\bin\Debug\net7.0\ConsoleApp06L.exe
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\bin\Debug\net7.0\ConsoleApp06L.deps.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\bin\Debug\net7.0\ConsoleApp06L.runtimeconfig.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\bin\Debug\net7.0\ConsoleApp06L.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\bin\Debug\net7.0\ConsoleApp06L.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\obj\Debug\net7.0\ConsoleApp06L.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\obj\Debug\net7.0\ConsoleApp06L.AssemblyInfoInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\obj\Debug\net7.0\ConsoleApp06L.AssemblyInfo.cs
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\obj\Debug\net7.0\ConsoleApp06L.csproj.CoreCompileInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\obj\Debug\net7.0\ConsoleApp06L.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\obj\Debug\net7.0\refint\ConsoleApp06L.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\obj\Debug\net7.0\ConsoleApp06L.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\obj\Debug\net7.0\ConsoleApp06L.genruntimeconfig.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\06_Lekcion\ConsoleApp06L\obj\Debug\net7.0\ref\ConsoleApp06L.dll
