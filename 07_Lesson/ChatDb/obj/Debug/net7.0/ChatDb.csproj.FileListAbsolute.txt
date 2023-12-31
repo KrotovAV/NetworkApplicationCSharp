@@ -1,0 +1,17 @@
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\obj\Debug\net7.0\ChatDb.csproj.AssemblyReference.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\obj\Debug\net7.0\ChatDb.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\obj\Debug\net7.0\ChatDb.AssemblyInfoInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\obj\Debug\net7.0\ChatDb.AssemblyInfo.cs
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\obj\Debug\net7.0\ChatDb.csproj.CoreCompileInputs.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\bin\Debug\net7.0\ChatDb.deps.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\bin\Debug\net7.0\ChatDb.runtimeconfig.json
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\bin\Debug\net7.0\ChatDb.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\bin\Debug\net7.0\ChatDb.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\bin\Debug\net7.0\ChatCommon.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\bin\Debug\net7.0\ChatCommon.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\obj\Debug\net7.0\ChatDb.csproj.CopyComplete
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\obj\Debug\net7.0\ChatDb.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\obj\Debug\net7.0\refint\ChatDb.dll
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\obj\Debug\net7.0\ChatDb.pdb
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\obj\Debug\net7.0\ChatDb.genruntimeconfig.cache
+D:\GeekBrains\My Git\NetworkApplicationCSharp\07_Lesson\ChatDb\obj\Debug\net7.0\ref\ChatDb.dll
